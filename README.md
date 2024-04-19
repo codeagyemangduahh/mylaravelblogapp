@@ -32,9 +32,9 @@ The Laravel Blog Application is a web application built using the Laravel framew
 * Start the development server: php artisan serve
 
 
-
-
-
+# License
+  
+  This project is open-source and available under the MIT License.
 
 
 
