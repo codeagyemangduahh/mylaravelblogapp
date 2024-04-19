@@ -1,4 +1,4 @@
-# Laravel Blog Application Documentation
+# Laravel Blog Application 
 
 # Overview
 
